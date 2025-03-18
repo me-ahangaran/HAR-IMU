@@ -25,7 +25,7 @@ The activity prediction plots compare the ground truth (dashed line) and predict
 4. **Sample Activity Plots**
 <image src = "https://github.com/me-ahangaran/HAR-IMU/Plots/Activity plots/subject108_Ankle_Acc_3D_16g.svg">
 <image src = "https://github.com/me-ahangaran/HAR-IMU/Plots/Activity plots/subject108_Ankle_Gyroscope_3D.svg">
-<image src = "https://github.com/me-ahangaran/HAR-IMU/Plots/Activity plots/subject108_Ankle_Magnetometer_3D.svg">
+<image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Activity%20plots/subject108_Ankle_Magnetometer_3D.svg">
    
 The prediction accuracy for each activity is highlighted by comparing the two lines. These plots help assess how well the model generalizes across different sensor placements.
 
