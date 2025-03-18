@@ -47,6 +47,7 @@ The heatmap diagrams provide a visual representation of the correlation between 
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Ankle_Acc_3D_16g.svg">
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Chest_Acc_3D_16g.svg">
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Hand_Acc_3D_16g.svg">
+
 ---
 
 ## Example Files
