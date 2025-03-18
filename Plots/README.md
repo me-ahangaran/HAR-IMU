@@ -44,7 +44,7 @@ The heatmap diagrams provide a visual representation of the correlation between 
    - The correlations between device placements show how similar or distinct the features are when collected from different parts of the body, which can influence the model's performance.
 
 3. **Sample Heatmap Plots**
-<image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Ankle_Acc_3D_16g.svg"> <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Ankle_Acc_3D_16g.svg">
+<image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Ankle_Acc_3D_16g.svg">
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Chest_Acc_3D_16g.svg">
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Hand_Acc_3D_16g.svg">
 
