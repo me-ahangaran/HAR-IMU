@@ -1,4 +1,4 @@
-# Human Activity Recognition (HAR) using Inertial Measurement Unit‎ (IMU) sensory data (PAMAP2 Dataset)
+# Human Activity Recognition (HAR) using Inertial Measurement Unit‎ (IMU) sensory data
 
 This repository contains the implementation of a **Random Forest-based Human Activity Recognition (HAR)** system using the **PAMAP2 Physical Activity Monitoring dataset**. The system processes IMU sensor data collected from different body positions to predict human activities and provides performance visualizations and evaluations.
 
