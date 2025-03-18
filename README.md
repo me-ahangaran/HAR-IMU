@@ -134,5 +134,4 @@ pip install numpy pandas scikit-learn seaborn matplotlib scipy
 
 1. A. Reiss and D. Stricker. Introducing a New Benchmarked Dataset for Activity Monitoring. The 16th IEEE International Symposium on Wearable Computers (ISWC), 2012.
 2. A. Reiss and D. Stricker. Creating and Benchmarking a New Dataset for Physical Activity Monitoring. The 5th Workshop on Affect and Behaviour Related Assistance (ABRA), 2012.
-3. [PAMAP2 Dataset Description](http://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring)
 
