@@ -70,4 +70,4 @@ To understand the model's performance and feature relationships, you can:
 
 ## Conclusion
 
-The visualizations in this folder play a crucial role in understanding the prediction power of the HAR model and the relationships between sensor data from various IMU devices. They provide insights into both model performance and feature interactions, helping to refine and optimize the system.
+These visualizations play a crucial role in understanding the prediction power of the HAR model and the relationships between sensor data from various IMU devices. They provide insights into both model performance and feature interactions, helping to refine and optimize the system.
