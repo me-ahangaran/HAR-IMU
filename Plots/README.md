@@ -43,7 +43,7 @@ The heatmap diagrams provide a visual representation of the correlation between 
    - The heatmaps help identify which IMU features from different body placements share strong correlations, which can be useful for understanding feature redundancy and selecting the most informative features for model training.
    - The correlations between device placements show how similar or distinct the features are when collected from different parts of the body, which can influence the model's performance.
 
-3. **Sample Heatmap Plots from Ankle, Chest, and Hand IMU Accelerometers Devices**
+3. **Sample Heatmap Plots from Ankle, Chest, and Hand IMU Accelerometer Devices**
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Ankle_Acc_3D_16g.svg">
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Chest_Acc_3D_16g.svg">
 <image src = "https://github.com/me-ahangaran/HAR-IMU/blob/main/Plots/Heatmaps/correlation_RF_Hand_Acc_3D_16g.svg">
